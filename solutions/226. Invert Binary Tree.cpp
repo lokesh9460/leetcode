@@ -11,9 +11,24 @@
  */
 class Solution {
 public:
+    
+    void visit(TreeNode* rot)
+    {
+        if(!rot)
+            return;
+        else
+        {
+            visit(rot->left);
+            visit(rot->right);
+            swap(rot->left,rot->right);
+        }
+    }
+    
     TreeNode* invertTree(TreeNode* root) {
         if(!root)
-            
+            return root;
+        visit(root);
+        return root;
         
     }
 };

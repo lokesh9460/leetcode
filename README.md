@@ -16,3 +16,4 @@
 |1329|[ Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[C++](./solutions/1329.%20Sort%20the%20Matrix%20Diagonally.cpp)|24 ms|
 |1499|[ Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)|[C++](./solutions/1499.%20Max%20Value%20of%20Equation.cpp)|612 ms|
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./solutions/1672.%20Richest%20Customer%20Wealth.cpp)||
+|1675|[ Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[C++](./solutions/1675.%20Minimize%20Deviation%20in%20Array.cpp)|812 ms|

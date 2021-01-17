@@ -19,3 +19,4 @@
 |1672|[ Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./solutions/1672.%20Richest%20Customer%20Wealth.cpp)||
 |1675|[ Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[C++](./solutions/1675.%20Minimize%20Deviation%20in%20Array.cpp)|812 ms|
 |1711|[ Count Good Meals](https://leetcode.com/problems/count-good-meals/)|[C++](./solutions/1711.%20Count%20Good%20Meals.cpp)|N/A|
+|1720|[ Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[C++](./solutions/1720.%20Decode%20XORed%20Array.cpp)|28 ms|

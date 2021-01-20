@@ -12,6 +12,7 @@
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./solutions/226.%20Invert%20Binary%20Tree.cpp)||
 |448|[ Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|100 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|12 ms|
+|898|[ Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)|[C++](./solutions/898.%20Bitwise%20ORs%20of%20Subarrays.cpp)|440 ms|
 |1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[C++](./solutions/1025.%20Divisor%20Game.cpp)|0 ms|
 |1221|[ Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[C++](./solutions/1221.%20Split%20a%20String%20in%20Balanced%20Strings.cpp)|0 ms|
 |1295|[ Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[C++](./solutions/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.cpp)|8 ms|

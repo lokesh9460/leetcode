@@ -7,6 +7,7 @@
 |13|[ Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./solutions/13.%20Roman%20to%20Integer.cpp)|12 ms|
 |17|[ Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](./solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.cpp)|0 ms|
 |21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](./solutions/21.%20Merge%20Two%20Sorted%20Lists.cpp)|8 ms|
+|22|[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./solutions/22.%20Generate%20Parentheses.cpp)|0 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[C++](./solutions/46.%20Permutations.cpp)|0 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./solutions/70.%20Climbing%20Stairs.cpp)|0 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./solutions/76.%20Minimum%20Window%20Substring.cpp)|4 ms|

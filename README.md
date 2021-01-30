@@ -15,6 +15,7 @@
 |108|[ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](./solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp)|20 ms|
 |118|[ Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[C++](./solutions/118.%20Pascal's%20Triangle.cpp)|0 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[C++](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)|8 ms|
+|128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[C++](./solutions/128.%20Longest%20Consecutive%20Sequence.cpp)|0 ms|
 |171|[ Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](./solutions/171.%20Excel%20Sheet%20Column%20Number.cpp)|0 ms|
 |191|[ Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./solutions/191.%20Number%20of%201%20Bits.cpp)|4 ms|
 |220|[ Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](./solutions/220.%20Contains%20Duplicate%20III.cpp)|52 ms|

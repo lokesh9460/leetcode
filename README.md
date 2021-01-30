@@ -15,6 +15,7 @@
 |171|[ Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[C++](./solutions/171.%20Excel%20Sheet%20Column%20Number.cpp)|0 ms|
 |220|[ Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](./solutions/220.%20Contains%20Duplicate%20III.cpp)|52 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./solutions/226.%20Invert%20Binary%20Tree.cpp)||
+|268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./solutions/268.%20Missing%20Number.cpp)|20 ms|
 |329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)|36 ms|
 |448|[ Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|100 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|12 ms|

@@ -11,6 +11,7 @@
 |22|[ Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./solutions/22.%20Generate%20Parentheses.cpp)|0 ms|
 |46|[ Permutations](https://leetcode.com/problems/permutations/)|[C++](./solutions/46.%20Permutations.cpp)|0 ms|
 |70|[ Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C++](./solutions/70.%20Climbing%20Stairs.cpp)|0 ms|
+|71|[ Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java](./solutions/71.%20Simplify%20Path.java)|6 ms|
 |76|[ Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[C++](./solutions/76.%20Minimum%20Window%20Substring.cpp)|4 ms|
 |94|[ Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C++](./solutions/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)|4 ms|
 |108|[ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[C++](./solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp)|20 ms|

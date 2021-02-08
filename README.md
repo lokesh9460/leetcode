@@ -25,6 +25,7 @@
 |220|[ Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](./solutions/220.%20Contains%20Duplicate%20III.cpp)|52 ms|
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./solutions/226.%20Invert%20Binary%20Tree.cpp)||
 |268|[ Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./solutions/268.%20Missing%20Number.cpp)|20 ms|
+|284|[ Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[C++](./solutions/284.%20Peeking%20Iterator.cpp)|0 ms|
 |329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)|36 ms|
 |448|[ Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|100 ms|
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|15 ms|

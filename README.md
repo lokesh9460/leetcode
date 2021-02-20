@@ -29,6 +29,7 @@
 |284|[ Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[C++](./solutions/284.%20Peeking%20Iterator.cpp)|0 ms|
 |329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)|36 ms|
 |448|[ Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[C++](./solutions/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|100 ms|
+|516|[ Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[C++](./solutions/516.%20Longest%20Palindromic%20Subsequence.cpp)|76 ms|
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|15 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|12 ms|
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[C++](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.cpp)|4 ms|

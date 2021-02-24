@@ -33,6 +33,7 @@
 |594|[ Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](./solutions/594.%20Longest%20Harmonious%20Subsequence.java)|15 ms|
 |746|[ Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./solutions/746.%20Min%20Cost%20Climbing%20Stairs.cpp)|12 ms|
 |821|[ Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[C++](./solutions/821.%20Shortest%20Distance%20to%20a%20Character.cpp)|4 ms|
+|856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[C++](./solutions/856.%20Score%20of%20Parentheses.cpp)|0 ms|
 |862|[ Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)|[C++](./solutions/862.%20Shortest%20Subarray%20with%20Sum%20at%20Least%20K.cpp)|120 ms|
 |898|[ Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)|[C++](./solutions/898.%20Bitwise%20ORs%20of%20Subarrays.cpp)|440 ms|
 |1025|[ Divisor Game](https://leetcode.com/problems/divisor-game/)|[C++](./solutions/1025.%20Divisor%20Game.cpp)|0 ms|

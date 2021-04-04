@@ -11,16 +11,20 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        ListNode *slow=head, *fast=head,*prev=NULL,*tmp;
+        ListNode *slow=head, *fast=head,*prev,*tmp;
         while(fast && fast->next)
         {
+            slow=slow->next;
             fast=fast->next->next;
-            tmp=slow->next,slow->next=prev,prev=slow,slow=tmp;
         }
-        slow=fast?slow->next:slow;
+        prev=slow,slow=slow->next,prev->next=NULL;
         while(slow)
-            if(slow->val!=prev->val) return true;
-            else slow=slow->next,prev=prev->next;
+            tmp=slow->next,slow->next=prev,prev=slow,slow=tmp;
+        fast=head,slow=prev;
+        while(slow)
+            if(fast->val!=slow->val) return false;
+            else fast=fast->next,slow=slow->next;
+            
         return true;
         
     }
